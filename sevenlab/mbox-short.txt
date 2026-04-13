@@ -1,0 +1,4 @@
+From user@example.com Sat Jan 5
+Hello world
+Another line here
+Email test@test.com

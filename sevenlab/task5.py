@@ -1,0 +1,4 @@
+# task5.py
+with open("mbox-short.txt","r",encoding="utf-8") as f:
+    for line in f:
+        print(line.upper(), end="")
