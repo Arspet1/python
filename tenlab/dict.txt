@@ -1,0 +1,10 @@
+cat	-	кішка
+dog	-	собака
+house	-	дім
+sun	-	сонце
+moon	-	місяць
+live	-	жити
+in	-	в
+and	-	і
+shine	-	сіяти
+brightly	-	яскраво
